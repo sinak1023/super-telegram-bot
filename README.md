@@ -31,8 +31,8 @@ A powerful Telegram bot for automated ETH transfers across multiple blockchain n
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/multi-network-transfer-bot.git
-cd multi-network-transfer-bot
+git clone https://github.com/sinak1023/super-telegram-bot.git
+cd super-telegram-bot
 ```
 
 2. Install dependencies:
@@ -156,9 +156,6 @@ The bot provides real-time updates including:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
