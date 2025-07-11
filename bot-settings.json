@@ -1,0 +1,9 @@
+{
+  "transactionCount": 250,
+  "minAmount": "0.000000001",
+  "maxAmount": "0.000000005",
+  "minDelay": 10,
+  "maxDelay": 15,
+  "maxRetries": 3,
+  "retryDelay": 5000
+}
